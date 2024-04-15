@@ -30,25 +30,33 @@ Please read the [style guide](https://superlinked.com/vectorhub/contributing/sty
 However, some additional dos and don’ts for contributors are summarised below:
 
 ## Dos
-
+<br>
 ✅<b> Share a bullet point outline of your planned content first </b>- To prevent a lot of work going into content that is not suitable for the platform, please share an outline, in the form of bullet points, of the content you plan to create
-
+<br>
+<br>
 ✅<b> Link it to a use case</b> - by making content practical in this way, people can then see how they might use your ideas in a production system
-
+<br>
+<br>
 ✅<b> Include code for implementation</b> - the audience is technical with a lot of builders; therefore, we always want a practical outcome people can try themselves when they read the content
-
+<br>
+<br>
 ✅ <b> Share unique insights & research</b> - the best content on VH showcases new ways of doing things to tackle known challenges in the industry, for example, improving retrieval quality
-
+<br>
+<br>
 ✅ <b> Use simple tools/libraries or mainstream tools to demonstrate your use case in code</b> - we appreciate that you may have preferred products when building in the real world. However, for VectorHub content, we ask that you focus on demoing how to build from first principles, using simple tools (sklearn, PyTorch, numpy and similar), no tools at all, or, if needed, mainstream libraries (i.e. llamaindex or langchain), and highlight that alternative options are available to maintain the platform's neutral integrity.
-
+<br>
+<br>
 ✅ <b>Be realistic with submission timelines</b> - It’s better to plan for a longer timeline and deliver early than to keep pushing back. To effectively support your submission, we need time to plan the content pipeline and promotion.
-
+<br>
+<br>
 ✅ <b>Share step-by-step implementations with context</b> - For inspiration, Andrei Kaparthy’s tutorials  ([here](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) & [here](https://www.youtube.com/watch?v=zduSFxRajkE)) on building out neural networks and GPTs from scratch are a great example of the content style that does well on VectorHub. For VectorHub however, keep it concise and focus on one specific pain point/goal per article as opposed to a complete solution
-
+<br>
+<br>
 ## Don’ts
-
+<br>
 ❌ <b>Repurpose your existing content verbatim </b>- you can rework and re-edit content you have published elsewhere to share on the platform. However, we ask you to include one additional unique insight and that it is different enough for SEO purposes for us not to be penalised
-
+<br>
+<br>
 ❌ <b>Create sales-focused content </b>- we cannot accept content that we consider salesy, which details setting up and working with one specific product or actively promotes a specific technology. See your VectorHub article more as a brand-building, soft-sell initiative.
 
 ## Get involved
