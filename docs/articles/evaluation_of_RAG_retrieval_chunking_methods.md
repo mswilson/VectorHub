@@ -130,5 +130,7 @@ Finally, **reranker model TinyBERT** proved to be the most efficient at improvin
 ## Contributors
 
 - [Kristóf Horváth, author](https://www.linkedin.com/in/kristof-horvath-0301/)
+<br>
 - [Mór Kapronczay, contributor](https://www.linkedin.com/in/mór-kapronczay-49447692)
+<br>
 - [Robert Turner, contributor-editor](https://www.linkedin.com/in/robertdhayanturner/)
